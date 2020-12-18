@@ -1,0 +1,52 @@
+
+.resume{
+        width: 80%;
+        background: rgb(245, 243, 243);
+        height: 1500px;
+        margin:  auto;
+        display: block;
+    }
+.resumetop{
+    position: relative;
+    background-color: rgb(131, 125, 125);
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+img{
+    border-radius: 50%;
+    border: 5px solid yellow;
+    border-style: dotted ;
+}
+.photoposit{ position: absolute;top: 70px; left: 40%;}
+.position{position: absolute ; top: 200px; ; width: 100%; 
+    margin: auto ; ;height: 40px; background-color: rgb(247, 236, 236); }
+.namebox{position: absolute; font-size: xxx-large; top: 180px; width: 300px; text-align: center; left: 36.5%;height: 70px; border-radius: 5% ; background-color: yellow;}
+
+
+.center{text-align: center; border-bottom: 2px solid black; display: block;}
+
+
+
+
+* {
+      box-sizing: border-box;
+    }
+    
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 800px }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 110px }

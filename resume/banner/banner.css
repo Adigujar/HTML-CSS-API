@@ -1,0 +1,207 @@
+.mainbody{
+    width: 60%;
+    height: 2400px;
+    margin: auto;
+    background-color: rgb(92, 82, 82);
+}
+.subbody{
+    width: 80%;
+    position: relative;
+    top: 150px;
+    height: 1000px;
+    margin: auto;
+    
+}
+.icon{
+    border: 5px solid white;
+    border-radius: 60%;
+    padding: 10px;
+    position: relative;
+    top: 80px;
+    left: 280px;
+}
+.iconname{
+    position: absolute;
+    font-size: 80px;
+    color: tomato;
+    
+    left: 550px;
+
+}
+.iconname2{
+    position: absolute;
+    font-size: 30px;
+    top: 145px;
+    color: white;
+    left: 555px;
+
+}
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 50%;
+    height: 300px;
+
+}
+
+.column2{
+    position: absolute;
+    float: left;
+    width: 50%;
+    height: 120px;
+}
+
+.column3{
+    position: absolute;
+    left: 279px;
+    width: 50%;
+    height: 150px;
+    
+}
+.column4{
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    height: 100px;
+}
+.column5{
+    position: absolute;
+    float: left;
+    width: 50%;
+    height: 50px;
+    
+}
+.column6{
+    position: absolute;
+    width: 50%;
+    height: 120px;
+    left:279px;
+
+}
+
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.row2:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.iconposit0{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.iconposit1{
+    position: relative;
+    top: 25px;
+    left: 120px;
+
+}
+.iconposit2{
+    position: relative;
+    top: 25px;
+    left: 120px;
+    color: rgb(160, 35, 97);
+
+}
+.iconposit3{
+    position: relative;
+    top: 50px;
+    left: -20px;
+}
+
+.iconposit4{
+    position: relative; 
+    top: 30px;
+    left: 80px;
+}
+.iconposit5{
+    position: relative;
+    top: 30px;
+    left: 120px;
+}
+.iconposit6{
+    position: relative;
+    top: 30px;
+    left: 160px;
+}
+.iconposit7{
+    position: relative;
+    top: -210px;
+    left: 200px;
+}
+.iconposit8{
+    position: relative;
+    left: 120px;
+}
+.iconposit9{
+    position: relative;
+    top: -150px;
+    left: 480px;
+}
+.iconposit10{
+    position: relative;
+    top: 30px;
+    left: 120px;
+}
+.bg1{background-color: rgb(231, 231, 67);}
+.bg2{background-color: rgb(27, 98, 131);}
+.bg3{background-color: rgb(189, 75, 46);}
+
+.font1{font-size: 50px;}
+.font2{font-size: 20px;}
+
+.under{text-decoration: underline;}
+
+.pad{padding: 30px;}
+
+
+.center{text-align: center;}
+.left{text-align: justify;}
+
+.box{ position: relative;
+    top: 350px;
+    width: 100%;
+    margin: auto;
+    height: 300px;
+    ;
+    
+}
+
+.box2{ position: absolute;
+    top: 350px;
+    width: 100%;
+    margin: auto;
+    height: 220px;
+    
+}
+
+.box3{ position: absolute;
+    top: 620px;
+    width: 100%;
+    margin: auto;
+    height: 250px;
+    
+}
+.box4{
+    top: 920px;
+    height: 300px;
+}
+.box5{
+    top: 1270px;
+
+}
+.box6{
+    top: 1540px;
+
+}
+.box7{
+    top: 1510px;
+}
+    
+    

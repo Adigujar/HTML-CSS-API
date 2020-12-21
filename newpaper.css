@@ -1,0 +1,36 @@
+.bordertop{
+    border: 5px solid black;
+    border-top-style: solid black;
+}
+.borderbottom{
+    display: block;
+    border: 5px solid black;
+    
+}
+.fontc1{
+    color: red;
+}
+.font1{
+    font-size: 85px;
+}
+.font2{
+    font-size: 25px;
+}
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+.right{
+    text-align: end;
+}
+.img1{
+    height: 80%;
+}
+
+
+
+.bg1{background-color: rgb(231, 231, 67);}
+.bg2{background-color: rgb(27, 98, 131);}
+.bg3{background-color: rgb(189, 75, 46);}
